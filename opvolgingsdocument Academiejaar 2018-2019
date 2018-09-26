@@ -4,52 +4,48 @@ Persoonlijk ontwikkelingsplan (POP) - opvolgingsdocument Academiejaar 2018-2019
 
 =================================================================================
 
-
-<
-  Opmerking:
-  In het onderstaande document vervang je alle tekst tussen '<' en '>' door wat gevraagd wordt
-  of je verwijdert ze indien het enkel over commentaar gaat (zoals deze paragraaf).
->
-
-
-
-Student:	<voornaam> <naam>
+Student:	Matthys Ruben
 
 Mentor:		<in te vullen door de mentor>
 
 
 =================================================================================
-Beschrijving - datum <datum van ingave> (in te vullen wanneer je je voorstel indient)
+prtaktisch uitwerken sturing benzinemotor - datum 28/09/18
 =================================================================================
 
 Onderwerp:
 
-<Geef hier een korte beschrijving van het onderwerp of thema dat je kiest>
+Uit mijn passie voor auto's en benzinemotoren, heb ik gekozen om een project te maken rond een benzinemotor.
+Mijn doel is om met een motorblok te werken, en deze te bestuderen. De sensoren uit te lezen en de actuatoren te kunnen aansturen. 
 
 
 Einddoelen (met evaluatiecriteria):
 
-1. <einddoel 1>
-2. <einddoel 2>
-3. ...
+1.	Kennis verwerven van sensoren/actuatoren die zich bevinden op een motorblok
+2.	Sensoren uitlezen en actuatoren aansturen
+3.	Software schrijven die actuatoren regelt aan de hand van inputs van de sensoren
+4.	Motor stationair laten draaien
+5.	Fuel-map schrijven
+6.	Fuel-map perfectioneren aan de hand van lambdasonde (optioneel)
 
 
 Motivatie - betrokkenheid:
 
-<Geef hier je motivatie waarom je dit onderwerp kiest, waarbij je je persoonlijke betrokkenheid aantoont>
+Dit onderwerp vloeit voort uit mijn passie voor auto's (zoals eerder al vermeld). Omdat een vriend een best bruikbaar motorblok had liggen, kwam vandaar mijn idee.
 
 Motivatie - grenzen verleggen:
 
-<Geef hier je argumentatie waarom je met dit voorstel je eigen grenzen zal verleggen>
+In mijn vrije tijd sleutel ik ook aan auto's. Dan lees ik de ECU (motorcomputer) uit, en repareer ik wat de computer zegt dat stuk is.
+Nu zou ik net het omgekeerde doen. Nu zou ik de computer zelf maken, en zelf een basis sturing maken om de motor aan te sturen.
+De originele motor-electronica is niet meer te redden, dus zal het veel op eigen onderzoek en ondervinding zijn.
 
 Motivatie - professioneel profiel:
 
-<optioneel: geef hier indien nodig je argumentatie waarom dit voorstel relevant is voor je professioneel profiel>
+Later zou ik toch iets willen doen met motoren. Bij autoliefhebbers worden er nogal vaak "swaps" gedaan. Dit wil zeggen dat motoren vaak
+in andere auto's gelegd worden. Hierbij is electronica ook vaak het probleem. Daarom zou ik met toch wat willen toelichten op motor-electronica, om daar eventueel een markt in te vinden
 
-<Geef hier de opsomming van de kerndoelen van de opleiding waarbinnen je voorstel past, bijvoorbeeld: 
 
-kerndoelen: 1.c, 2.a, 2.b, 3.b, 6.e, 10.m
->
+kerndoelen: 1e, 1g, 2a, 2b, 3a, 3b, 4a, 5c, 8i, 8j, 8k
 
 <Werkvormen:beschrijf hier kort welke werkvormen je zal hanteren om je einddoelen te bereiken>
 
